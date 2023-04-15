@@ -1,1 +1,2 @@
 # slstatus
+suckless status monitor
